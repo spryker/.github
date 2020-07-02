@@ -3,4 +3,4 @@
 TBD
 
 ## Checklist
-- [ ] I agree with the Contribution License Agreement
+- [ ] I agree with the Code Contribution License Agreement in CONTRIBUTING.md
